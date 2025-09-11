@@ -13,6 +13,7 @@ things I like doing
 
 ### 2. Data Science & Machine Learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=summerfog)](https://github.com/autumn-yng/summerfog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=llm-zoomcamp)](https://github.com/autumn-yng/llm-zoomcamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=cnn_fog)](https://github.com/autumn-yng/cnn_fog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=pavement-marking-detection
 )](https://github.com/autumn-yng/pavement-marking-detection)
