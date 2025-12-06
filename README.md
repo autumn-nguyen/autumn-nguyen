@@ -6,7 +6,7 @@ things I like doing
 Please reach out if you are needing technical help to create something that would bring value to others. I'm working freelance and willing to provide help at low cost/for free for nonprofits, grassroot orgs, or just individuals hoping to make a positive impact. I have experience building data pipelines, analyzing data, developing models, building websites and mobile apps, and brainstorming tech solutions if people haven't found one.
 
 ### 1. Front-End Software Development
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=community-book)](https://github.com/autumn-yng/community-book)
+<!-- REPO https://github.com/autumn-yng/community-book -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
 
