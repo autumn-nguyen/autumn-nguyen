@@ -39,12 +39,12 @@ I use Python and its major data science library, pandas, to manipulate and visua
 [SiFT-MTP-protocol](https://github.com/autumn-yng/SiFT-MTP-protocol)* -- Python, PyCryptodome; AES, RSA.
 
 ### 4. Mathematics Research
-[Computational Evidence for Dynamical Irreducibility over Finite Fields](https://github.com/autumn-yng/dynamical_irreducibility)
+<!-- REPO https://github.com/autumn-yng/dynamical_irreducibility -->
 
 ---
-<sub>Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
-<sub>[LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen/)</sub> <br> 
-<sub>[Endorsements](https://www.linkedin.com/in/autumnyngocnguyen/details/recommendations/?detailScreenTabIndex=0)</sub>
+Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
+[LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen/)</sub> <br> 
+[Endorsements](https://www.linkedin.com/in/autumnyngocnguyen/details/recommendations/?detailScreenTabIndex=0)</sub>
 
 <br><br>
-<sub>*These projects are currently private to certain people only -- hopefully one day we will be able to make them public and open-source!</sub>
+*These projects are currently private to certain people only -- hopefully one day we will be able to make them public and open-source!</sub>
