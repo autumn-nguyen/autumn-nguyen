@@ -39,7 +39,8 @@ I use Python and its major data science library, pandas, to manipulate and visua
 [SiFT-MTP-protocol](https://github.com/autumn-yng/SiFT-MTP-protocol)* -- Python, PyCryptodome; AES, RSA.
 
 ### 4. Mathematics Research
-<!-- REPO https://github.com/autumn-yng/dynamical_irreducibility -->
+#### [dynamical_irreducibility](https://github.com/autumn-yng/dynamical_irreducibility)
+No description
 
 ---
 Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
