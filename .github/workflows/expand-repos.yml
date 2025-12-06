@@ -33,7 +33,7 @@ jobs:
               });
 
                 const block =
-                `### [${data.name}](${data.html_url})\n` + 
+                `#### [${data.name}](${data.html_url})\n` + 
                 `${data.description || "No description"}`;
 
               readme = readme.replace(match[0], block);
