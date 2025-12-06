@@ -26,7 +26,7 @@ Please reach out if you are needing technical help to create something that woul
 [SiFT-MTP-protocol](https://github.com/autumn-yng/SiFT-MTP-protocol)* -- Python, PyCryptodome; AES, RSA.
 
 ### 4. Mathematics Research
-<!-- REPO https://github.com/autumn-yng/dynamical_irreducibility) -->
+<!-- REPO https://github.com/autumn-yng/dynamical_irreducibility -->
 
 ---
 Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
