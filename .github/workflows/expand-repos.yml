@@ -36,7 +36,7 @@ jobs:
                 `#### [${data.name}](${data.html_url})\n` + 
                 `${data.description || "No description"}`;
 
-              readme = readme.replace(match[0], block);
+              readme = readme.replace(match[0], `${match[0]}\n${block}`);
             }
 
             fs.writeFileSync("README.md", readme);
