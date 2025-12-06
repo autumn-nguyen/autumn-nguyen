@@ -13,7 +13,7 @@ A full-stack web app using React (TypeScript), Postman-tested RESTful API endpoi
 
 <!-- REPO https://github.com/auyura/TrashMe -->
 
-<!-- REPO https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge -->
+[FlappyBird-FocusJorge](https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge)* -- Java, OOP, Test-Driven Development.
 
 
 ### 2. Data Science & Machine Learning
