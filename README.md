@@ -8,21 +8,22 @@ Please reach out if you are needing technical help to create something that woul
 ### 1. Front-End Software Development
 ### [community-book](https://github.com/autumn-yng/community-book)
 A full-stack web app using React (TypeScript), Postman-tested RESTful API endpoints, Spring Boot (Java), PostgreSQL. Built to help my local community exchange used books, to practice full-stack dev with Github Copilot AI, and to exercise good OOP and software engineering practices.
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
 
-[FlappyBird-FocusJorge](https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge)* -- Java, OOP, Test-Driven Development.
+<!-- REPO https://github.com/auyura/sride -->
+
+<!-- REPO https://github.com/auyura/TrashMe -->
+
+<!-- REPO https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge -->
 
 
 ### 2. Data Science & Machine Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=summerfog)](https://github.com/autumn-yng/summerfog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=llm-zoomcamp)](https://github.com/autumn-yng/llm-zoomcamp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=cnn_fog)](https://github.com/autumn-yng/cnn_fog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=pavement-marking-detection
-)](https://github.com/autumn-yng/pavement-marking-detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=reforestree-correction)](https://github.com/autumn-yng/reforestree-correction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=leaf-health-computer-vision)](https://github.com/autumn-yng/leaf-health-computer-vision)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=co2-temperature)](https://github.com/autumn-yng/co2-temperature)
+<!-- REPO https://github.com/autumn-yng/summerfog -->
+<!-- REPO https://github.com/autumn-yng/llm-zoomcamp -->
+<!-- REPO https://github.com/autumn-yng/cnn_fog -->
+<!-- REPO https://github.com/autumn-yng/pavement-marking-detection -->
+<!-- REPO https://github.com/autumn-yng/reforestree-correction -->
+<!-- REPO https://github.com/autumn-yng/leaf-health-computer-vision -->
+<!-- REPO https://github.com/autumn-yng/co2-temperature -->
 
 
 ### 3. Cryptography & Cybersecurity
