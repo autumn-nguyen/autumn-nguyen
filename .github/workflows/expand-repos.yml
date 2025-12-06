@@ -1,0 +1,50 @@
+name: Expand Repo Links
+
+on:
+  workflow_dispatch:
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse repo links and expand
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+
+            let readme = fs.readFileSync("README.md", "utf8");
+
+            const regex = /<!-- REPO (https:\/\/github\.com\/([^\/]+)\/([^\/\s]+)) -->/g;
+
+            const matches = [...readme.matchAll(regex)];
+
+            for (const match of matches) {
+              const fullUrl = match[1];
+              const owner = match[2];
+              const repo = match[3];
+
+              const { data } = await github.rest.repos.get({
+                owner,
+                repo
+              });
+
+                const block =
+                `### [${data.name}](${data.html_url})\n` + 
+                `${data.description || "No description"}`;
+
+              readme = readme.replace(match[0], block);
+            }
+
+            fs.writeFileSync("README.md", readme);
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Expand repo links"
+          git push
