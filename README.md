@@ -53,7 +53,7 @@ I discovered novel results on dynamical irreducibility of certain quintics over 
 ---
 Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
 [LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen/)</sub> <br> 
-[Endorsements](https://www.linkedin.com/in/autumnyngocnguyen/details/recommendations/?detailScreenTabIndex=0)</sub>
-
+[Endorsements](https://www.linkedin.com/in/autumnyngocnguyen/details/recommendations/?detailScreenTabIndex=0)</sub><br> 
+[Personal webpage](https://autumn-nguyen.github.io/)</sub>
 <br><br>
 *These projects are currently private to certain people only -- hopefully one day we will be able to make them public and open-source!</sub>
